@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 I’m currently learning Basic Programing skills like HTML, CSS, Javascript, jquery, React, SpringBoot, Mysql, Jenkins ...
 <!-- 연락 정보 -->
 ## Connect with Me 📫  
-How to reache me: yeon97a@naver.com
+How to reache me: shinyeongyun@kakao.com
 <!-- 관심분야 -->
 ## Interest  
 Web develoment, cloud platform, AI
