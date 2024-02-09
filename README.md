@@ -34,6 +34,8 @@ Web develoment, cloud platform, AI
 <!-- 최근 프로젝트 -->
 ## Latest Projects  
 [1. Final_Project](https://github.com/SHIN-YEONGYUN/Final_Project)
+[2. Food shop](https://github.com/SHIN-YEONGYUN/Foodie-Green)
+[3. SNS](https://github.com/SHIN-YEONGYUN/nwitter-reloaded)
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## Langueges and Tools  
 <!-- 글자 -->
